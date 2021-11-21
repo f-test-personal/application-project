@@ -22,5 +22,12 @@ jobs:
     steps:
       - name: echo2-1
         run: echo "hogehoge"
+        
+  echo3: 
+    name: echo3
+    runs-on: ubuntu-latest
+    steps:
+      - name: echo3-1
+        run: echo "hogehoge"
 
           
