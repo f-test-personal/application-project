@@ -1,8 +1,9 @@
 name: GitHub Actions Demo
 on: 
   # pull_request:
-  # hogheoge
+  # piyopiyo
   push:
+  
   
   workflow_dispatch:
 env: 
