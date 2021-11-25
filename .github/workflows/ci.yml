@@ -16,11 +16,6 @@ jobs:
       - name: echo1-1
         run: echo "hoge"
         
-  echo2: 
-    name: echo2
-    runs-on: ubuntu-latest
-    steps:
-      - name: echo2-1
-        run: echo "hogehoge"
+
 
           
